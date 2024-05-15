@@ -27,7 +27,7 @@ export const Navbar = () => {
                     font.className,
                     "font-poppins"
                 )}>
-                    mybuddy.ai
+                    companion.ai
                 </h1>
             </Link>
             </div>
